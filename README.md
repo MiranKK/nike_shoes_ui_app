@@ -10,9 +10,7 @@ A modern e-commerce UI built using Flutter.
 
 ## 🎥 Demo
 
-<p align="center">
-  <img src="media/app-demo.gif" width="250">
-</p>
+![Image](https://github.com/user-attachments/assets/f48cb94a-3abe-4693-a196-308582d40a10)
 
 ## 🛠 Tech Stack
 - Flutter
