@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🎥 Demo
 
-![App Demo](media/demo.gif)
+![App Demo](media/app-demo.gif)
